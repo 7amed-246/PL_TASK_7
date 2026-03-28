@@ -1,0 +1,9 @@
+2026-02-05 08:11:20 | ERROR | api | Unhandled exception
+2026-02-05 08:11:21 | INFO | auth | User login success
+2026-02-05 08:11:22 | WARN | api | Slow response
+2026-02-05 08:11:23 | ERROR | db | Connection failed
+2026-02-05 08:11:24 | INFO | api | Request processed
+2026-02-05 08:11:25 | WARN | auth | Invalid password attempt
+2026-02-05 08:11:26 | ERROR | api | Timeout
+2026-02-05 08:11:27 | INFO | db | Query executed
+2026-02-05 08:11:28 | ERROR | auth | Authentication failed

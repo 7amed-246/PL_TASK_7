@@ -1,0 +1,16 @@
+INCIDENT MINI-REPORT
+
+INFO: 3
+WARN: 2
+ERROR: 4
+
+Top services:
+api: 4
+auth: 3
+db: 2
+
+Sample ERROR logs:
+2026-02-05 08:11:20 | ERROR | api | Unhandled exception
+2026-02-05 08:11:23 | ERROR | db | Connection failed
+2026-02-05 08:11:26 | ERROR | api | Timeout
+2026-02-05 08:11:28 | ERROR | auth | Authentication failed

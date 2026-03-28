@@ -1,0 +1,12 @@
+{
+  "level_counts": {
+    "ERROR": 4,
+    "INFO": 3,
+    "WARN": 2
+  },
+  "service_counts": {
+    "api": 4,
+    "auth": 3,
+    "db": 2
+  }
+}
